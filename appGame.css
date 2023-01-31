@@ -36,6 +36,23 @@ body, html {
     background: #000;
 
     /* Settings */
+    position: absolute;
     width: 2rem;
     height: 2rem;
+    
+    z-index: 2;
+}
+
+/* ----- fruitGame_content ----- */
+.fruitGame_content {
+    /* style */
+    background: rgb(242, 6, 6);
+
+
+    /* Position */
+    position: absolute;
+    width: 1.1rem;
+    height: 1.1rem;
+
+    z-index: 1;
 }
