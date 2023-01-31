@@ -1,0 +1,22 @@
+{
+  "name": "project_snakegame_30-01-2023_version1.0",
+  "version": "1.0.0",
+  "description": "Paste for games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorgabrieldev/projects_game_web.git"
+  },
+  "author": "Vitor Gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorgabrieldev/projects_game_web/issues"
+  },
+  "homepage": "https://github.com/vitorgabrieldev/projects_game_web#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}

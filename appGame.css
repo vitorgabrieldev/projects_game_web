@@ -1,0 +1,41 @@
+
+/* Settings Style Snake Game Main */
+/* By: Vitor Gabriel */
+
+
+body, html {
+    /* Style */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #101227;
+
+    /* Settings */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* ----- Container Game ----- */
+.containerDisplay_game {
+    /* Style */
+    background: #fefefe;
+    border: 3px solid rgb(69, 69, 69);
+    
+    /* Settings */
+    position: absolute;
+    width: 75%;
+    height: 85%;
+}
+
+
+/* ----- Player game ----- */
+.player1_content {
+    /* Style */
+    background: #000;
+
+    /* Settings */
+    width: 2rem;
+    height: 2rem;
+}
